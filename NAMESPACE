@@ -1,0 +1,8 @@
+export("Dpit")
+export("descriptives")
+importFrom("graphics", "curve", "hist", "plot")
+importFrom("stats", "aggregate", "constrOptim", "dexp", "dlnorm",
+    "dnorm", "dpois", "dweibull", "ecdf", "knots", "lm",
+    "median", "nlm", "optim", "pchisq", "pexp", "pgamma",
+    "plnorm", "pnorm", "ppois", "pweibull", "runif", "sd",
+    "uniroot", "coef")

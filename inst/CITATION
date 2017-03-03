@@ -1,0 +1,11 @@
+citHeader("To cite package Dpit in publications use:")
+
+citEntry(entry="Article",
+  title = "Not all nonnormal distributions are created equal: Improved theoretical and measurement precision",
+  author = personList(as.person("Harry Joo"), as.person("Herman Aguinis"), as.person("Kyle J. Bradley")),
+  journal = "Journal of Applied Psychology",
+  year = "2017",
+  url = "http://hermanaguinis.com/pubs.html",
+  pdf = "http://www.hermanaguinis.com/JAPinpress2.pdf",
+  textVersion = "Joo, H., Aguinis, H., & Bradley, K. J. 2017. Not all nonnormal distributions are created equal: Improved theoretical and measurement precision. Journal of Applied Psychology. Advance online publication. doi: 10.1037/apl0000214"
+)
